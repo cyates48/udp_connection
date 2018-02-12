@@ -1,6 +1,4 @@
  /**************************
- *	Christopher Yates
- *      Thursday, 2:15-5
  *      server.c
  *          
  *      Short Desciption: This is the server.c program. The file
