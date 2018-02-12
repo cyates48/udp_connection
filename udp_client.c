@@ -1,6 +1,4 @@
 /*************************************************************
- * 	Christopher Yates
- *      Thursday, 2:15-5
  *      client.c
  *      
  *      Short Description: The file accepts four arguments. 
